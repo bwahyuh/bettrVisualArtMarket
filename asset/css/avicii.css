@@ -1,0 +1,89 @@
+.parallaximg1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1576166691480-0J60BSEXVISA85AFYEOP/DSC09122.jpg?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg2{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1531407733323-9B4NJUY13C7XHC6PY3U1/avicii-16-min.jpg?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg3{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1531408257008-H04V523M3WJL3BCS6OZG/ezgif-1-6580d59bcb.gif?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg4{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1530184679966-BTHEM6XABA6IJOD17ORG/image-asset.jpeg?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg5{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1531318035089-202E0ET6QKDZ1R15A8GR/avicii-30.jpg?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg6{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1531407660266-2YOYMD83NA2JKPN5A79M/avicii-11-min.jpg?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}

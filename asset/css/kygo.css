@@ -1,0 +1,14 @@
+.parallaximg1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1530197551873-I8JO7UZCAEU2FE2N5EVO/ezgif-5-e16bbd3fc8.gif?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}

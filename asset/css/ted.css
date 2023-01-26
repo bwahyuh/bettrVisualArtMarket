@@ -1,0 +1,14 @@
+.parallaximg1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1645108473814-Z9NUK2CMYNLKMI2KX5T3/Ted_Baker_Bastille_0984.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}

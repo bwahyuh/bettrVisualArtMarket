@@ -1,0 +1,89 @@
+.parallaximg1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1531408285382-JPIA6TDH3OSHEW2L60V8/ezgif-1-e37d6e9bd8.gif?format=1000w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.parallaximg2{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1539014599778-7L0URFGW31ZJWJXZUBY4/image-asset.jpeg?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.parallaximg3{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1562609834286-TJ92IDX4SH1FSONHUDPG/ezgif-5-bcf1fdc8ab73.gif?format=750w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.parallaximg4{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1529592701794-AX185H2FMW4UIR1UKFBB/kygo-49.jpg?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.parallaximg5{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1648825269205-JGBDGE15BUDXVHWV2G5J/Screenshot+2022-04-01+at+15.55.01.png?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.parallaximg6{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b2a2304da02bcdfa5960061/1645108473814-Z9NUK2CMYNLKMI2KX5T3/Ted_Baker_Bastille_0984.jpg?format=750w);
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
